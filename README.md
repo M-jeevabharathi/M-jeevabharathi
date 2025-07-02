@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @M-jeevabharathi
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning PYTHON , JAVA , C++
+
 - 
 
 <!---
